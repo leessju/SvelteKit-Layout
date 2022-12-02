@@ -10,4 +10,4 @@
         <input type="text" class="input input-bordered input-primary w-full max-w-xs" />
         <button class="btn btn-primary w-full max-w-xs">Login</button>
     </div>
-</div>
+<!-- </div> -->
